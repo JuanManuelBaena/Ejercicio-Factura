@@ -8,8 +8,7 @@ public class App {
         System.out.printf("%-30s%-30s%-30s%30s%n", "Facturar A", "Enviar A", "Nº DE FACTURA", "ES-001");
         System.out.printf("%-30s%-30s%-30s%30s%n", "Leda Villareal", "Leda Villareal", "FECHA", "29.01.2019");
         System.out.printf("%-30s%-30s%-30s%30s%n", "Virgen Blanca 63", "Cercas Bajas 68", "Nº DE PEDIDO", "1730/2019");
-        System.out.printf("%-30s%-30s%-30s%30s%n", "08759 Burgos, Burgos", "47300 Cádiz, Cádiz", "", "");
-        System.out.printf("%-30s%-30s%-30s%30s%n", "","","FECHA VCTO", "29-01-2019");
+        System.out.printf("%-30s%-30s%-30s%30s%n", "08759 Burgos, Burgos", "47300 Cádiz, Cádiz", "FECHA VCTO", "29-01-2019");
         System.out.println();
         System.out.println();
         System.out.println("───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────");
